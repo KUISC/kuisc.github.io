@@ -1,77 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kuisc.com/meetings/197-12020-h.e./</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/about/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/competitions/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/competitions/competitions/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/posts/hello/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kuisc.com/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/meetings/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/resources/nmap/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/people/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/posts/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/resources/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/sponsors/</loc>
-    <lastmod>2020-07-17T03:43:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuisc.com/competitions/kcdc-alpha/kcdc-alpha/</loc>
+    <lastmod>2020-07-19T20:04:22-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://kuisc.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kuisc.com/</loc>
+    <lastmod>2020-07-19T20:04:22-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kuisc.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
