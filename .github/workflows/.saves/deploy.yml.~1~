@@ -1,0 +1,39 @@
+name: Build and Deploy
+on: [push]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2 
+        with:
+          persist-credentials: false
+
+      - name: Install SSH Client 🔑
+        uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Get hugo
+        run: |
+            sudo apt install hugo
+
+      - name: Install terminal
+        run: |
+            git clone https://github.com/panr/hugo-theme-terminal.git themes/terminal
+
+      - name: Build
+        run: |
+            hugo
+            
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          SSH: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_BRANCH: source
+          BRANCH: master
+          FOLDER: public
+          CLEAN: true
+          
+
