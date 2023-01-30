@@ -1,0 +1,61 @@
+[ 
+  {
+    "Title": "Hack the Box Challenge Night on 2/1",
+    "Date": "January 28th 2023",
+    "Message": "We will be having another meeting this Wednesday (2/1) at 7pm in Eaton 2003. We will be having a Hack The Box night and work through challenges together. Looking forward to seeing everyone there!"
+  },
+  {
+    "Title": "KUISC 2022",
+    "Date": "January 17th 2023",
+    "Message": "I hope you all had a great winter break. We will have our first meeting of the semester next Wednesday the 25th at 7pm in Eaton 2003. Looking forward to seeing everyone there!"
+  },   
+  {
+    "Title": "Professor Luo will be presenting at ACM this week on these topics right before our meeting on 10/30",
+    "Date": "November 26th 2022",
+    "Message": "Deep learning has transformed many data analytic applications, such as speech recognition, computer vision, and natural language processing. DL also made its impact to the security and privacy community, for instance, in network intrusion detection, malware detection, and malicious behavior analysis. Meanwhile, a broad spectrum of cyber-attacks against deep learning systems has been proposed. Such attacks aim to break the integrity or confidentiality of the models. In this talk, I will introduce several research projects from KU’s InfoSec group: (1) AI/DL attack evaluation, (2) a highly-effective and very stealthy neural Trojan, (3) an inversion attack against NLP model sharing, (4) a universal defense mechanism against adversarial ML attacks, and (5) employing deep learning for mobile/IoT device recognition. Through this talk, we hope to highlight the security and privacy issues in AI/DL systems, which may be helpful for audience to identify the opportunities and challenges in their own research fields."
+  },    
+  {
+    "Title": "Hack the Box Challenge Night on 11/30",
+    "Date": "November 27th 2022",
+    "Message": "Hope Everyone had an awesome break! We will be having a Hack the Box night this Wednesday at 7pm in Eaton 2003.  We will help everyone get a free account and work through a free challenge together. Look forward to seeing everyone there!"
+  },    
+  
+  {
+    "Title": "Guest Presentation on 11/09",
+    "Date": "November 3rd 2022",
+    "Message": "We will be having another meeting this Wednesday at 7pm in Eaton 2003. We will be hosting Dr. Drew Davidson, who will be giving a presentation on his research and mobile security. Looking forward to seeing everyone there!"
+    
+  },    
+  {
+      "Title": "Technical Session on 10/26",
+      "Date": "October 22nd 2022",
+      "Message": "We will be having a technical session this Wednesday at 7pm in Eaton 2003. We will be holding a demonstration of intrusion detection systems using Snort. Looking forward to seeing everyone there!"
+
+  },
+  {
+      "Title": "Technical Session on 10/12",
+      "Date": "October 10th 2022",
+      "Message": "Hope everyone's break is going well! We will be holding our next general meeting Wednesday at 7pm in Eaton 2003. NCL is right around the corner so we will be working through a handful of the NCL Gymnasium exercises to prepare for NCL and other CTF competitions. Looking forward to seeing everyone there!"
+
+  },
+  {
+      "Title": "Technical Session on 9/28",
+      "Date": "September 26th 2022",
+      "Message": "We will be holding another technical session this Wednesday at 7pm in Eaton 2003. We will be exploring various methods to assess and exploit one of the vulnerable machines in the lab. Looking forward to seeing everyone there!"
+
+  },
+  {
+      "Title": "Technical Session on 9/14",
+      "Date": "September 12th 2022",
+      "Message": "We will be holding our first technical session of the semester this Wednesday at 7pm in Eaton 2003! We will be covering networking basics and common tools including TCP/IP, common protocols, packet analysis, and stateful firewalls. Looking forward to seeing everyone there!"
+
+  },
+  {
+      "Title": "KUISC 2022",
+      "Date": "August 26th 2022",
+      "Message": "We are thrilled to announce that we will be returning to in-person on the Lawrence campus this semester! Join us on Wednesday August 31st at 7pm in Eaton 2003. Professor Bardas and the EECS department have graciously allowed us to use this space for our meetings; it is specially built for cybersecurity education and will be a tremendous asset for our club. Thanks, all!"
+
+  }
+
+  
+]
